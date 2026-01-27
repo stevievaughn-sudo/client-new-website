@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node.js
+/node_modules
+npm-debug.log
+
+# Build Output
+/dist
+/public
+
+# Security (Secrets)
+.env
+.env.*
+!.env.example
+
+# Firebase
+.firebase/
+*.firebase.*
+!firebase.json
